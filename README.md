@@ -36,13 +36,18 @@ It allows users to easily manage their daily tasks — adding, updating, marking
    git clone https://github.com/Rashaahmedhassan/ToDoManagementSystem.git
 
 2. Navigate to the project directory:
+   ```bash
    cd ToDoManagementSystem
 3.Create and activate a virtual environment:
+```bash
 python -m venv env
+```bash
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 4.Install required dependencies:
+```bash
 pip install -r requirements.txt
 5.Run the development server:
+```bash
 python manage.py runserver
 
 🎓 About the Internship
