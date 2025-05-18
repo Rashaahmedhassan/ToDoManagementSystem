@@ -52,10 +52,13 @@ It allows users to easily manage their daily tasks — adding, updating, marking
 
 
 🎓 About the Internship
+
 This project is part of the Orange Internship final graduation project, aiming to apply real-world application development using Python and Django.
 👩‍💻 Author
+
 Rasha Ahmed Hassan — 2025
 Orange Internship Program Graduate
 
 📃 License
+
 This project is for educational purposes only.
