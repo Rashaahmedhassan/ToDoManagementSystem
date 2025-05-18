@@ -38,17 +38,18 @@ It allows users to easily manage their daily tasks — adding, updating, marking
 2. Navigate to the project directory:
    ```bash
    cd ToDoManagementSystem
-3.Create and activate a virtual environment:
-  ```bash
-  python -m venv env
-  source env/bin/activate  # On Windows use `env\Scripts\activate`
+3. Create and activate a virtual environment:
+   ```bash
+   python -m venv env
+   source env/bin/activate  # On Windows use `env\Scripts\activate`
 
-4.Install required dependencies:
-  ```bash
-  pip install -r requirements.txt
-5.Run the development server:
-  ```bash
-  python manage.py runserver
+4. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+5. Run the development server:
+   ```bash
+   python manage.py runserver
+
 
 🎓 About the Internship
 This project is part of the Orange Internship final graduation project, aiming to apply real-world application development using Python and Django.
